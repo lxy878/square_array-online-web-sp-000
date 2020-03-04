@@ -3,6 +3,7 @@ def square_array(array)
   array.each do |number|
     answer << number**2
   end
+  puts answer.size
   return answer
 end
 
