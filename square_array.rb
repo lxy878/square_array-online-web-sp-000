@@ -7,4 +7,4 @@ def square_array(array)
   return answer
 end
 
-//puts square_array([1,2,3])
+puts square_array([1,2,3])
